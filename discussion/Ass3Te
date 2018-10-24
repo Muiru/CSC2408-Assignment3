@@ -1,0 +1,8 @@
+\documentclass[11pt]{article}
+\begin{document}
+\title{%Assignment 3\\ \large GIT Version Control and Apache ANT}
+\author{Niall Rodgers, U1112935}
+
+\maketitle
+
+\end{document}
